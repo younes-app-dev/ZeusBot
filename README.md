@@ -1,0 +1,2 @@
+# ZeusBot
+Zeus | Arabic Bot
